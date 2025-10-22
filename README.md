@@ -40,7 +40,7 @@ Opcionalmente, incluye un archivo `icon.ico` en el mismo directorio.
 ## Archivos
 
 ```
-todo_app.py          # Archivo principal
+main.py          # Archivo principal
 tasks.json           # Datos (auto-generado)
 icon.ico             # Icono opcional
 ```
