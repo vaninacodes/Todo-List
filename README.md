@@ -1,7 +1,5 @@
 ౨ৎ TO-DO APP ౨ৎ
 
-Descripción
-
 Aplicación de lista de tareas con interfaz gráfica en Python. Diseño minimalista en tonos rosados para gestionar tus pendientes diarios.
 
 
@@ -21,9 +19,7 @@ Aplicación de lista de tareas con interfaz gráfica en Python. Diseño minimali
 
 ౨ৎ Requisitos ౨ৎ
 
-Python 3.x
-
-tkinter
+Python 3.x - tkinter
 
 ## Funcionalidades
 
