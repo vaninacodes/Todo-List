@@ -5,6 +5,7 @@ Descripción
 Aplicación de lista de tareas con interfaz gráfica en Python. Diseño minimalista en tonos rosados para gestionar tus pendientes diarios.
 
 
+
 ౨ৎ Características ౨ৎ
 
 ✓ Agregar y eliminar tareas
