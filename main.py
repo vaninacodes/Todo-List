@@ -8,7 +8,6 @@ class TodoListApp(tk.Tk):
 
         self.title("────୨ TO-DO ৎ────")
         self.geometry("400x450")
-        self.iconbitmap('icon.ico')
         self.configure(bg="#FFC0CB")
         
         # Configurar estilo
