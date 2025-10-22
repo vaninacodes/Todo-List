@@ -1,22 +1,18 @@
 ౨ৎ TO-DO APP ౨ৎ
 
 Descripción
-
 Aplicación de lista de tareas con interfaz gráfica en Python. Diseño minimalista en tonos rosados para gestionar tus pendientes diarios.
 
 ౨ৎ Características ౨ৎ
 
 ✓ Agregar y eliminar tareas
-
 ✓ Marcar tareas como completadas
-
 ✓ Estadísticas de progreso
-
 ✓ Guardado automático en JSON
-
 ✓ Atajo: Enter para agregar tareas
 
 ౨ৎ Requisitos ౨ৎ
+
 Python 3.x
 tkinter
 
