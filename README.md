@@ -46,4 +46,5 @@ icon.ico             # Icono opcional
 ```
 
 ───୨୧───
+
 ![Vista previa del proyecto](./todo.png)
